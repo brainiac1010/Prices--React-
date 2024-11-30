@@ -51,3 +51,4 @@ const StudentBarChart = () => {
 };
 
 export default StudentBarChart;
+ 
